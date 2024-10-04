@@ -48,7 +48,7 @@ const Sidebar = () => {
               </li>
             ))
           ) : (
-            <p>No favorite</p>
+            <p className="text-center">No favorite</p>
           )}
         </ul>
       </nav>
