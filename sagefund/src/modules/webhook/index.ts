@@ -1,9 +1,6 @@
 import { Module } from "@nestjs/common";
-import { RouterModule } from "@nestjs/core";
 
 @Module({
-    imports: [
-        
-    ],
+    imports: [],
 })
 export class WebhookModule {}

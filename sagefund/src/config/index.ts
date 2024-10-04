@@ -52,7 +52,6 @@ const runtimeEnvironment: RequiredEnvironment[] = [
         type: RequiredEnvironmentTypes.String,
     },
 
-
     //clodinary
     {
         name: "CLOUDINARY_CLOUD_NAME",
@@ -88,11 +87,6 @@ export const appBaseUrl: string = process.env.BASEURL;
 export const isProdEnvironment = process.env.ENVIRONMENT === "production";
 
 export const frontendDevOrigin = [/^http:\/\/localhost:\d+$/];
-
-interface StorageDirConfig {
-    profile: string;
-}
-
 
 //cloudinary
 
