@@ -1,4 +1,4 @@
-# The two tasks are in this directory, each having their readme
+# The two tasks are in this directory, each having readme
 
 ## hosted app url
 
