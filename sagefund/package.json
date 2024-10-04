@@ -119,7 +119,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Olaoluwa402/sagefund"
+        "url": "git+https://github.com/Olaoluwa402/sagegray"
     },
     "keywords": [
         "node",
@@ -128,7 +128,7 @@
         "pnpm"
     ],
     "bugs": {
-        "url": "https://github.com/Olaoluwa402/sagefund/issues"
+        "url": "https://github.com/Olaoluwa402/sagegray/issues"
     },
-    "homepage": "https://github.comOlaoluwa402/sagefund#readme"
+    "homepage": "https://github.comOlaoluwa402/sagegray#readme"
 }
